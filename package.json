@@ -1,0 +1,10 @@
+{
+  "name": "dutyscheduler-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix dutyschedule run dev",
+    "build": "npm --prefix dutyschedule run build",
+    "start": "npm --prefix dutyschedule run start",
+    "lint": "npm --prefix dutyschedule run lint"
+  }
+}
